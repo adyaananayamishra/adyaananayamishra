@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Adya Ananya Mishra</h1>
+<h3 align="center">Frontend Developer | React.js | UI Designer</h3>
 
-<!--
-**adyaananayamishra/adyaananayamishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 I’m currently building real-world React projects  
+💻 Skilled in HTML, CSS, JavaScript, React, Tailwind  
+📍 Bhubaneswar, India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects
+- 🔹 Hotel Booking App
+- 🔹 Resume Builder
+- 🔹 Real Estate Website
+- 🔹 Loan Application Form
+
+---
+
+### 🛠️ Tech Stack
+- React.js
+- JavaScript
+- Tailwind CSS
+- Git & GitHub
+
+---
+
+### 📫 Connect with me
+- GitHub: https://github.com/adyaananayamishra
+
+---
+
+⭐ Keep learning, keep building 🚀
