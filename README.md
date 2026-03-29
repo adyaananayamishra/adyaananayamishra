@@ -20,9 +20,8 @@ Frontend Developer | React.js | Building Real World Projects
 
 ### 🚀 Projects
 - 🔹 Hotel Booking App  
-- 🔹 Resume Builder  
 - 🔹 Real Estate Website  
-- 🔹 Loan Application Form  
+- 🔹 Portfolio
 
 ---
 
