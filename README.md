@@ -1,33 +1,64 @@
 <h1 align="center">Hi 👋, I'm Adya Ananya Mishra</h1>
-<h3 align="center">Frontend Developer | React.js | UI Designer</h3>
+
+<h3 align="center">
+Frontend Developer | React.js | Building Real World Projects
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Frontend+Developer;React+JS+Lover;UI%2FUX+Enthusiast;Always+Learning+New+Things" />
+</p>
 
 ---
 
-🌱 I’m currently building real-world React projects  
-💻 Skilled in HTML, CSS, JavaScript, React, Tailwind  
-📍 Bhubaneswar, India  
+### 👩‍💻 About Me
+- 🌱 Currently working on **React Projects**
+- 💡 Interested in **UI/UX + Modern Web Apps**
+- 📍 Based in **Bhubaneswar, India**
+- ⚡ Fun fact: I love building clean UI
 
 ---
 
 ### 🚀 Projects
-- 🔹 Hotel Booking App
-- 🔹 Resume Builder
-- 🔹 Real Estate Website
-- 🔹 Loan Application Form
+- 🔹 Hotel Booking App  
+- 🔹 Resume Builder  
+- 🔹 Real Estate Website  
+- 🔹 Loan Application Form  
 
 ---
 
 ### 🛠️ Tech Stack
-- React.js
-- JavaScript
-- Tailwind CSS
-- Git & GitHub
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
+</p>
 
 ---
 
-### 📫 Connect with me
-- GitHub: https://github.com/adyaananayamishra
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=adyaananayamishra&show_icons=true&theme=radical" />
+</p>
 
 ---
 
-⭐ Keep learning, keep building 🚀
+### 🔥 Streak Stats
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=adyaananayamishra&theme=radical" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adyaananayamishra&theme=react-dark" />
+</p>
+
+---
+
+### 🌐 Connect with me
+<p align="center">
+<a href="https://github.com/adyaananayamishra">GitHub</a>
+</p>
+
+---
+
+<h3 align="center">✨ Code. Build. Grow. ✨</h3>
